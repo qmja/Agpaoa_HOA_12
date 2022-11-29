@@ -1,0 +1,6 @@
+CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
+CONTAINER ID   IMAGE       COMMAND                  CREATED              STATUS                     PORTS                                       NAMES
+7fd755598770   sampleapp   "/bin/sh -c 'python3…"   About a minute ago   Up About a minute          0.0.0.0:8080->8080/tcp, :::8080->8080/tcp   samplerunning
+18bbfd0597ea   ubuntu      "bash"                   9 minutes ago        Exited (0) 8 minutes ago                                               nostalgic_almeida
+CONTAINER ID   IMAGE       COMMAND                  CREATED         STATUS         PORTS                                       NAMES
+7fd755598770   sampleapp   "/bin/sh -c 'python3…"   6 minutes ago   Up 6 minutes   0.0.0.0:8080->8080/tcp, :::8080->8080/tcp   samplerunning
